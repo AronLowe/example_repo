@@ -5,6 +5,7 @@
 #Then I claimed my throne as the prince of Bel Air.
 
 def my_method
-  puts "ay"
+  puts "ayyy"
+  puts "joe"
 end
 
